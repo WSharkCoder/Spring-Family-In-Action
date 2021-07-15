@@ -2,17 +2,6 @@
 
 Spring全家桶实践
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-
 <p align="center">
     <a href="https://github.com/WSharkCoder/Spring-Family-In-Action">
          <img src="IMG/Spring.png" alt="Logo" width="224" height="225"/>
