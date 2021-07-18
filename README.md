@@ -27,7 +27,10 @@ Spring全家桶实践
 
 ----
 
-+ [datasource-demo/自动配置H2数据库&数据库初始化&数据初始化](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/datasource-demo)
++ [datasource-demo/H2数据库自动配置&数据库初始化schema.sql&数据初始化data.sql](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/datasource-demo)
++ [multi-datasource-deme/如何配置多数据源？](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/multi-datasource-demo)
++ [hikaricp-datasource-pool-demo/SpringBoot默认数据库连接池](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/hikaricp-datasource-pool-demo)
++  
 
 ### NOSQL 相关
 
@@ -35,7 +38,9 @@ Spring全家桶实践
 
  
 
----
+
+
+
 
 ### 持续更行中...
 
