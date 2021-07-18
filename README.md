@@ -27,7 +27,7 @@ Spring全家桶实践
 
 ----
 
-
++ [datasource-demo/自动配置H2数据库&数据库初始化&数据初始化](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/datasource-demo)
 
 ### NOSQL 相关
 
