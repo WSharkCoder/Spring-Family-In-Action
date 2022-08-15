@@ -6,7 +6,7 @@
     <artifactId>hello</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hello</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Hello For SpringBoot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
