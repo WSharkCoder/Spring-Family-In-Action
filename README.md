@@ -22,6 +22,7 @@ Spring全家桶实践
 ----
 
 + [hello/如何解决既有自定义Parent POM和 SpringBoot POM多继承问题?](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/hello)
++ [[multi-module-demo/企业中常见的多模块项目是如何构建的?](https://github.com/WSharkCoder/Spring-Family-In-Action/tree/master/multi-module-demo)]
 
 ### SQL 相关
 
